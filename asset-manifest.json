@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-burgers-landing/static/css/main.685cdb6c.css",
-    "main.js": "/react-burgers-landing/static/js/main.81e5e0aa.js",
+    "main.css": "/react-burgers-landing/static/css/main.2523ac14.css",
+    "main.js": "/react-burgers-landing/static/js/main.ab5a569d.js",
     "static/js/787.c4851eba.chunk.js": "/react-burgers-landing/static/js/787.c4851eba.chunk.js",
-    "static/media/main-burger.png": "/react-burgers-landing/static/media/main-burger.b3e921ea021deb926956.png",
-    "static/media/order-image.png": "/react-burgers-landing/static/media/order-image.10087c0b4b2159484699.png",
-    "static/media/main-bg.png": "/react-burgers-landing/static/media/main-bg.ff0480a63951a47136dc.png",
-    "static/media/order-bg.png": "/react-burgers-landing/static/media/order-bg.62364bdba50777e63379.png",
+    "static/media/order-image.webp": "/react-burgers-landing/static/media/order-image.1e1a80aaf60931c36ede.webp",
+    "static/media/main-burger.webp": "/react-burgers-landing/static/media/main-burger.ddae03f818090dcc1529.webp",
+    "static/media/main-bg.webp": "/react-burgers-landing/static/media/main-bg.a0b3becda53082c8a2db.webp",
     "static/media/logo.svg": "/react-burgers-landing/static/media/logo.2840245a9e768128c9024112499db2bd.svg",
-    "static/media/advantages-bg.png": "/react-burgers-landing/static/media/advantages-bg.57f7ffcbe0d716520d88.png",
+    "static/media/order-bg.webp": "/react-burgers-landing/static/media/order-bg.e2d2baf625c7adf14331.webp",
     "static/media/Merriweather-Regular.woff": "/react-burgers-landing/static/media/Merriweather-Regular.2b68e34f2d04653e1391.woff",
     "static/media/Merriweather-Black.woff": "/react-burgers-landing/static/media/Merriweather-Black.678a2170318dc8bd6379.woff",
+    "static/media/advantages-bg.webp": "/react-burgers-landing/static/media/advantages-bg.2b06d3f13d484a1bbb70.webp",
     "static/media/Merriweather-Regular.woff2": "/react-burgers-landing/static/media/Merriweather-Regular.3e4287a5e8e0393807b8.woff2",
     "static/media/Merriweather-Black.woff2": "/react-burgers-landing/static/media/Merriweather-Black.a555d2bd8a3062e75706.woff2",
     "static/media/Gilroy-Semibold.woff": "/react-burgers-landing/static/media/Gilroy-Semibold.5b042906a8b58ec4633e.woff",
@@ -21,12 +21,12 @@
     "static/media/Gilroy-Regular.woff2": "/react-burgers-landing/static/media/Gilroy-Regular.f6c9931fabe5a6eb3307.woff2",
     "static/media/shopping-card.svg": "/react-burgers-landing/static/media/shopping-card.c1089d42185e2442c986.svg",
     "index.html": "/react-burgers-landing/index.html",
-    "main.685cdb6c.css.map": "/react-burgers-landing/static/css/main.685cdb6c.css.map",
-    "main.81e5e0aa.js.map": "/react-burgers-landing/static/js/main.81e5e0aa.js.map",
+    "main.2523ac14.css.map": "/react-burgers-landing/static/css/main.2523ac14.css.map",
+    "main.ab5a569d.js.map": "/react-burgers-landing/static/js/main.ab5a569d.js.map",
     "787.c4851eba.chunk.js.map": "/react-burgers-landing/static/js/787.c4851eba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.685cdb6c.css",
-    "static/js/main.81e5e0aa.js"
+    "static/css/main.2523ac14.css",
+    "static/js/main.ab5a569d.js"
   ]
 }
