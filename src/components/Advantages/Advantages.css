@@ -1,11 +1,17 @@
 .advantages {
-  background-image: url("../../assets/images/advantages-bg.png");
+  background-image: url("../../assets/images/advantages-bg.webp");
   background-position: top center;
   background-size: initial;
   display: flex;
   flex-direction: column;
   gap: 60px;
   align-items: center;
+}
+
+@media screen and (max-width: 1279px) {
+  .advantages {
+    background-image: none;
+  }
 }
 
 @media screen and (max-width: 1023px) {

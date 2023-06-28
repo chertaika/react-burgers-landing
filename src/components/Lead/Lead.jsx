@@ -1,6 +1,6 @@
 import { HashLink as Link } from 'react-router-hash-link';
 import './Lead.css';
-import mainBurger from '../../assets/images/main-burger.png';
+import mainBurger from '../../assets/images/main-burger.webp';
 
 const Lead = ({
   label,

@@ -1,6 +1,6 @@
 import './Order.css';
 import SectionTitle from '../SectionTitle/SectionTitle';
-import orderBurger from '../../assets/images/order-image.png';
+import orderBurger from '../../assets/images/order-image.webp';
 import Form from '../Form/Form';
 import Input from '../Input/Input';
 

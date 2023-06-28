@@ -59,35 +59,8 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   margin: 0 auto;
-  background-image: url("./assets/images/main-bg.png");
+  background-image: url("./assets/images/main-bg.webp");
   background-position: top center;
   background-repeat: no-repeat;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
