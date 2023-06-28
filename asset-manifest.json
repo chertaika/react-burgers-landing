@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-burgers-landing/static/css/main.aa28e67d.css",
+    "main.css": "/react-burgers-landing/static/css/main.221bc391.css",
     "main.js": "/react-burgers-landing/static/js/main.d35b5ef1.js",
     "static/js/787.c4851eba.chunk.js": "/react-burgers-landing/static/js/787.c4851eba.chunk.js",
     "static/media/order-image.webp": "/react-burgers-landing/static/media/order-image.1e1a80aaf60931c36ede.webp",
@@ -21,12 +21,12 @@
     "static/media/Gilroy-Regular.woff2": "/react-burgers-landing/static/media/Gilroy-Regular.f6c9931fabe5a6eb3307.woff2",
     "static/media/shopping-card.svg": "/react-burgers-landing/static/media/shopping-card.c1089d42185e2442c986.svg",
     "index.html": "/react-burgers-landing/index.html",
-    "main.aa28e67d.css.map": "/react-burgers-landing/static/css/main.aa28e67d.css.map",
+    "main.221bc391.css.map": "/react-burgers-landing/static/css/main.221bc391.css.map",
     "main.d35b5ef1.js.map": "/react-burgers-landing/static/js/main.d35b5ef1.js.map",
     "787.c4851eba.chunk.js.map": "/react-burgers-landing/static/js/787.c4851eba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa28e67d.css",
+    "static/css/main.221bc391.css",
     "static/js/main.d35b5ef1.js"
   ]
 }
