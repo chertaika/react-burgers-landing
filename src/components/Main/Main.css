@@ -1,0 +1,21 @@
+.content {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 180px;
+  padding: 140px 40px 0;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 1023px) {
+  .content {
+    padding-top: 80px;
+    gap: 80px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .content {
+    padding: 50px 20px 0;
+  }
+}

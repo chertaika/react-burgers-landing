@@ -1,0 +1,27 @@
+.footer {
+  padding: 0 40px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 767px) {
+  .footer {
+    padding: 0 20px 40px;
+  }
+}
+
+.footer__logo {
+  width: 157px;
+  height: 50px;
+  object-fit: contain;
+  display: block;
+}
+
+.footer__copyright {
+  font-size: 16px;
+  font-weight: 600;
+  text-align: end;
+}

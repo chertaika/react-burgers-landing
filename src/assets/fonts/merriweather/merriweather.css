@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Merriweather';
+  src: url(Merriweather-Regular.woff2) format("woff2"),
+       url(Merriweather-Regular.woff) format("woff");
+  font-display: swap;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url(Merriweather-Black.woff2) format("woff2"),
+       url(Merriweather-Black.woff) format("woff");
+  font-display: swap;
+  font-weight: 900;
+}

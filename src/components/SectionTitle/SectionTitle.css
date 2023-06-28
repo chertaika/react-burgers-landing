@@ -1,0 +1,22 @@
+.section-title {
+  font-family: Merriweather,sans-serif;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 125%;
+  text-align: center;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .section-title {
+    font-size: 5.3vw;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .section-title {
+    font-size: 9vw;
+  }
+}

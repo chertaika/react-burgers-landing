@@ -1,0 +1,91 @@
+.lead {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.lead__info {
+  max-width: 608px;
+}
+
+.lead__label {
+  background: #D3320F;
+  border-radius: 100px;
+  padding: 14px 16px;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+@media screen and (max-width: 600px) {
+  .lead__label {
+    font-size: 3vw;
+    padding: 10px 12px;
+    margin-bottom: 10px;
+  }
+}
+
+.lead__title {
+  font-family: 'Merriweather', sans-serif;
+  font-size: 120px;
+  line-height: 130%;
+  font-weight: 900;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin: 1px 0 53px;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__title {
+    font-size: 11.7vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .lead__title {
+    font-size: 15vw;
+    margin-bottom: 30px;
+  }
+}
+
+.lead__paragraph {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 120%;
+  margin: 0 0 56px;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__paragraph {
+    font-size: 22px;
+  }
+}
+
+.lead__btn {
+  width: 260px;
+  height: 62px;
+}
+
+.lead__menu-link {
+  text-decoration: none;
+  color: #191411;
+}
+
+.lead__image {
+  position: absolute;
+  top: -132px;
+  left: calc(100% - 991px);
+  z-index: -1;
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__image {
+    opacity: .4;
+    width: 1200px;
+  }
+}

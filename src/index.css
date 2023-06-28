@@ -1,0 +1,93 @@
+@import "./assets/normalize.css";
+@import "./assets/fonts/gilroy/gilroy.css";
+@import "./assets/fonts/merriweather/merriweather.css";
+
+.button {
+  position: relative;
+  background: linear-gradient(30deg, #DA8023 0%, #E2B438 100%);
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0;
+  cursor: pointer;
+  outline: none;
+  font-size: 18px;
+  font-weight: 600;
+  color: #191411;
+  z-index: 1;
+}
+
+.button::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background: linear-gradient(30deg, #E2B438 0%, #DA8023 100%);
+  z-index: -1;
+  transition: opacity 0.2s linear;
+  opacity: 0;
+}
+
+.button:hover::before {
+  opacity: 1;
+}
+
+.button:disabled {
+  cursor: not-allowed;
+  color: #757575;
+  background: #343434;
+}
+
+.button:disabled::before {
+  background: none;
+}
+
+
+.page {
+  background-color: #191411;
+  min-width: 320px;
+  font-family: 'Gilroy', sans-serif;
+  color: white;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  margin: 0 auto;
+  background-image: url("./assets/images/main-bg.png");
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

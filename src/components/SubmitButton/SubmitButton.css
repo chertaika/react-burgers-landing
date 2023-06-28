@@ -1,0 +1,10 @@
+.order__submit-btn {
+  width: 100%;
+  height: 62px;
+}
+
+@media screen and (max-width: 600px) {
+  .order__submit-btn {
+    height: 52px;
+  }
+}
