@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-burgers-landing/static/css/main.2523ac14.css",
-    "main.js": "/react-burgers-landing/static/js/main.ab5a569d.js",
+    "main.js": "/react-burgers-landing/static/js/main.d35b5ef1.js",
     "static/js/787.c4851eba.chunk.js": "/react-burgers-landing/static/js/787.c4851eba.chunk.js",
     "static/media/order-image.webp": "/react-burgers-landing/static/media/order-image.1e1a80aaf60931c36ede.webp",
     "static/media/main-burger.webp": "/react-burgers-landing/static/media/main-burger.ddae03f818090dcc1529.webp",
@@ -22,11 +22,11 @@
     "static/media/shopping-card.svg": "/react-burgers-landing/static/media/shopping-card.c1089d42185e2442c986.svg",
     "index.html": "/react-burgers-landing/index.html",
     "main.2523ac14.css.map": "/react-burgers-landing/static/css/main.2523ac14.css.map",
-    "main.ab5a569d.js.map": "/react-burgers-landing/static/js/main.ab5a569d.js.map",
+    "main.d35b5ef1.js.map": "/react-burgers-landing/static/js/main.d35b5ef1.js.map",
     "787.c4851eba.chunk.js.map": "/react-burgers-landing/static/js/787.c4851eba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2523ac14.css",
-    "static/js/main.ab5a569d.js"
+    "static/js/main.d35b5ef1.js"
   ]
 }
